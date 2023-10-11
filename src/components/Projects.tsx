@@ -19,22 +19,19 @@ const Projects = () => {
                   <div className="media-box">
                      <Swiper pagination={true} modules={[Pagination]} className="mySwiper">
                         <SwiperSlide>
-                           <img src="./projects/portfolio/test1.png" alt="" />
+                           <img src="./projects/portfolio/1.png" alt="" />
                         </SwiperSlide>
                         <SwiperSlide>
-                           <img src="./projects/portfolio/test1.png" alt="" />
+                           <img src="./projects/portfolio/2.png" alt="" />
                         </SwiperSlide>
                         <SwiperSlide>
-                           <img src="./projects/portfolio/test1.png" alt="" />
+                           <img src="./projects/portfolio/3.png" alt="" />
                         </SwiperSlide>
                         <SwiperSlide>
-                           <img src="./projects/portfolio/test1.png" alt="" />
+                           <img src="./projects/portfolio/4.png" alt="" />
                         </SwiperSlide>
                         <SwiperSlide>
-                           <img src="./projects/portfolio/test1.png" alt="" />
-                        </SwiperSlide>
-                        <SwiperSlide>
-                           <img src="./projects/portfolio/test1.png" alt="" />
+                           <img src="./projects/portfolio/5.png" alt="" />
                         </SwiperSlide>
                      </Swiper>
                   </div>
@@ -48,7 +45,7 @@ const Projects = () => {
                         권유하는지 느낄 수 있었습니다. 또한 <em>styled-components</em>를 사용해 디자인부분도 동시에
                         작업했습니다.
                      </p>
-                     <button>
+                     <button onClick={() => openLinkInNewTab('https://github.com/honeypunch97/portfolio')}>
                         자세히 보기 <i className="xi-play"></i>README
                      </button>
                      <ul>
@@ -63,7 +60,9 @@ const Projects = () => {
                               <i className="xi-check"></i>GitHub
                            </span>
                            <p>
-                              <a href="#" target="_blank"></a>
+                              <a href="https://github.com/honeypunch97/portfolio" target="_blank">
+                                 https://github.com/honeypunch97/portfolio
+                              </a>
                            </p>
                         </li>
                         <li>
@@ -71,7 +70,9 @@ const Projects = () => {
                               <i className="xi-check"></i>URL
                            </span>
                            <p>
-                              <a href="#" target="_blank"></a>
+                              <a href="https://honeypunch97.github.io/portfolio/dist/" target="_blank">
+                                 https://honeypunch97.github.io/portfolio/dist/
+                              </a>
                            </p>
                         </li>
                         <li>
