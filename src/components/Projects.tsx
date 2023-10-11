@@ -19,22 +19,22 @@ const Projects = () => {
                   <div className="media-box">
                      <Swiper pagination={true} modules={[Pagination]} className="mySwiper">
                         <SwiperSlide>
-                           <img src="/projects/portfolio/test1.png" alt="" />
+                           <img src="./public/projects/portfolio/test1.png" alt="" />
                         </SwiperSlide>
                         <SwiperSlide>
-                           <img src="/projects/portfolio/test1.png" alt="" />
+                           <img src="./public/projects/portfolio/test1.png" alt="" />
                         </SwiperSlide>
                         <SwiperSlide>
-                           <img src="/projects/portfolio/test1.png" alt="" />
+                           <img src="./public/projects/portfolio/test1.png" alt="" />
                         </SwiperSlide>
                         <SwiperSlide>
-                           <img src="/projects/portfolio/test1.png" alt="" />
+                           <img src="./public/projects/portfolio/test1.png" alt="" />
                         </SwiperSlide>
                         <SwiperSlide>
-                           <img src="/projects/portfolio/test1.png" alt="" />
+                           <img src="./public/projects/portfolio/test1.png" alt="" />
                         </SwiperSlide>
                         <SwiperSlide>
-                           <img src="/projects/portfolio/test1.png" alt="" />
+                           <img src="./public/projects/portfolio/test1.png" alt="" />
                         </SwiperSlide>
                      </Swiper>
                   </div>
@@ -232,25 +232,25 @@ const Projects = () => {
                   <div className="media-box">
                      <Swiper pagination={true} modules={[Pagination]} className="mySwiper">
                         <SwiperSlide>
-                           <img src="/projects/ewha/1.png" alt="" />
+                           <img src="./public/projects/ewha/1.png" alt="" />
                         </SwiperSlide>
                         <SwiperSlide>
-                           <img src="/projects/ewha/2.png" alt="" />
+                           <img src="./public/projects/ewha/2.png" alt="" />
                         </SwiperSlide>
                         <SwiperSlide>
-                           <img src="/projects/ewha/3.png" alt="" />
+                           <img src="./public/projects/ewha/3.png" alt="" />
                         </SwiperSlide>
                         <SwiperSlide>
-                           <img src="/projects/ewha/4.png" alt="" />
+                           <img src="./public/projects/ewha/4.png" alt="" />
                         </SwiperSlide>
                         <SwiperSlide>
-                           <img src="/projects/ewha/5.png" alt="" />
+                           <img src="./public/projects/ewha/5.png" alt="" />
                         </SwiperSlide>
                         <SwiperSlide>
-                           <img src="/projects/ewha/6.png" alt="" />
+                           <img src="./public/projects/ewha/6.png" alt="" />
                         </SwiperSlide>
                         <SwiperSlide>
-                           <img src="/projects/ewha/7.png" alt="" />
+                           <img src="./public/projects/ewha/7.png" alt="" />
                         </SwiperSlide>
                      </Swiper>
                   </div>

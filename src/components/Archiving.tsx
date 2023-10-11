@@ -10,7 +10,7 @@ const Archiving = () => {
             <h2 className="title">ARCHIVING</h2>
             <div className="card" onClick={() => openLinkInNewTab('https://github.com/honeypunch97')}>
                <strong>
-                  <img src="/skills/github-color.svg" alt="github" />
+                  <img src="./public/skills/github-color.svg" alt="github" />
                   <span>Github</span>
                </strong>
                <a href="https://github.com/honeypunch97">github.com/honeypunch97</a>

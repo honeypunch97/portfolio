@@ -63,7 +63,7 @@ export const HeaderContainer = styled.header`
 `;
 export const VisualContainer = styled.section`
    padding: 136px 32px 64px 32px;
-   background-image: url('/visual/visual_bg.jpg');
+   background-image: url('./public/visual/visual_bg.jpg');
    background-repeat: no-repeat;
    background-position: center;
    background-size: cover;

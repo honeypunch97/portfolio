@@ -6,7 +6,7 @@ const Footer = () => {
          <InnerContainer>
             <div className="img-box">
                <a href="#">
-                  <img src="/skills/github-color.svg" alt="github" />
+                  <img src="./public/skills/github-color.svg" alt="github" />
                </a>
             </div>
             <p>© 2023. Jeong Jong Woo. All rights reserved.</p>
