@@ -18,8 +18,9 @@ const Projects = () => {
           <div className="content-box">
             <div className="media-box">
               <iframe
-                width="600"
-                height="338"
+                width="100%"
+                height="auto"
+                style={{ aspectRatio: "16/9" }}
                 src="https://www.youtube.com/embed/D86qeissCd0?si=0RCVxrc9Nnr-3ciR"
                 title="YouTube video player"
                 frameBorder="0"
@@ -159,8 +160,9 @@ const Projects = () => {
           <div className="content-box">
             <div className="media-box">
               <iframe
-                width="600"
-                height="338"
+                width="100%"
+                height="auto"
+                style={{ aspectRatio: "16/9" }}
                 src="https://www.youtube.com/embed/k0OeS49hoh0?si=cFU5cnJVcjEFTMD3"
                 title="YouTube video player"
                 frameBorder="0"
@@ -226,8 +228,9 @@ const Projects = () => {
           <div className="content-box">
             <div className="media-box">
               <iframe
-                width="600"
-                height="338"
+                width="100%"
+                height="auto"
+                style={{ aspectRatio: "16/9" }}
                 src="https://www.youtube.com/embed/2AA7mHFkg_g?si=6njJToPzG9uBfPHD"
                 title="YouTube video player"
                 frameBorder="0"
